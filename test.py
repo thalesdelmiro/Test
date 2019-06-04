@@ -8,6 +8,8 @@ x = 17
 
 print x
 
-x = 23
 
-print x
+y = 23
+
+print y
+
