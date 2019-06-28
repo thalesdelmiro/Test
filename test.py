@@ -6,8 +6,10 @@ Created on 4 de jun de 2019
 
 x = 17
 
-print x
+print x, type(x)
 
-x = 23
 
-print x
+y = 23
+
+print y
+
